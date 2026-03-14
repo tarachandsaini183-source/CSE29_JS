@@ -1,3 +1,5 @@
+// JavaScript
+
 function calculateResult(){
 
     let n = parseInt(document.getElementById("subjects").value);
